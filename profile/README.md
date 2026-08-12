@@ -35,6 +35,8 @@
         <sub>팀장 · 추론 최적화</sub>
         <br />
         <sub>@dev-jake-kim</sub>
+        <br/>
+        <sub>jake.sw.engineer@gmai.com</sub>
       </a>
     </td>
     <td align="center">
@@ -46,6 +48,8 @@
         <sub>seed variance 개선</sub>
         <br />
         <sub>@baeksuenang</sub>
+        <br/>
+        <sub>jbaegs409@gmail.com</sub>
       </a>
     </td>
     <td align="center">
@@ -57,6 +61,8 @@
         <sub>입력 구조화</sub>
         <br />
         <sub>@Talusor</sub>
+        <br/>
+        <sub>jbaegs409@gmail.com</sub>
       </a>
     </td>
     <td align="center">
@@ -68,6 +74,8 @@
         <sub>도메인 적응력 개선</sub>
         <br />
         <sub>@hyundoria</sub>
+        <br/>
+        <sub>hyundoria@gmail.com</sub>
       </a>
     </td>
   </tr>

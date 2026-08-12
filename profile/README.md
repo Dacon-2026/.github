@@ -71,7 +71,7 @@
         <br />
         <sub><b>이현석</b></sub>
         <br />
-        <sub>도메인 적응력 개선</sub>
+        <sub>도메인 적응 & 모델 압축</sub>
         <br />
         <sub>@hyundoria</sub>
         <br/>

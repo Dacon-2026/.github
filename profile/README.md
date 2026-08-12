@@ -192,3 +192,5 @@ loc=58700 budget=70033 primary_lang=ts open_exts=json </SESSION_FEATURE>
 ## 8. 참고
 
 - 공식 대회 링크: [DACON 2026 AI·SW중심대학 디지털 경진대회 : AI부문](https://dacon.io/competitions/official/236694/overview/description)
+## 9. 포스터
+<img src="./assets/포스터.png" alt="2026 AI·SW중심대학 디지털 경진대회 AI부문" width="70%" />

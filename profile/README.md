@@ -32,8 +32,6 @@
         <br />
         <sub><b>김진수</b></sub>
         <br />
-        <sub>팀장 · 추론 최적화</sub>
-        <br />
         <sub>@dev-jake-kim</sub>
         <br/>
         <sub>jake.sw.engineer@gmai.com</sub>
@@ -44,8 +42,6 @@
         <img src="https://github.com/baeksuenang.png?size=120" width="100px;" alt="백성현" />
         <br />
         <sub><b>백성현</b></sub>
-        <br />
-        <sub>seed variance 개선</sub>
         <br />
         <sub>@baeksuenang</sub>
         <br/>
@@ -58,8 +54,6 @@
         <br />
         <sub><b>이태호</b></sub>
         <br />
-        <sub>입력 구조화</sub>
-        <br />
         <sub>@Talusor</sub>
         <br/>
         <sub>aakmods@gmail.com</sub>
@@ -70,8 +64,6 @@
         <img src="https://github.com/hyundoria.png?size=120" width="100px;" alt="이현석" />
         <br />
         <sub><b>이현석</b></sub>
-        <br />
-        <sub>도메인 적응 & 모델 압축</sub>
         <br />
         <sub>@hyundoria</sub>
         <br/>
